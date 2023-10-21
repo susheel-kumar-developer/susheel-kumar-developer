@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Data Structure and Algorithm,SQL, Hadoop Big Data,Apache Spark, PySpark Programming.**
 
-- 🌱 I’m currently learning **Data Structure and Algorithm,SQL, Hadoop Big Data,Apache Spark, PySpark Programming.**
+- 🌱 I’m currently learning **Data Structure and Algorithm,SQL, Hadoop Big Data,Apache Spark, PySpark Programming, DataBricks.**
 
 - 👯 I’m looking to collaborate on **Problem Solving skills using Data Structure and Algorithm as well as System Design Pattern using LLD, HLD.**
 
