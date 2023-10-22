@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm,SQL, Hadoop Big Data,Apache Spark, PySpark Programming.**
 
-- 👯 I’m looking to collaborate on **Problem Solving skills using Data Structure and Algorithm as well as System Design Pattern using LLD, HLD.**
+- 👯 I’m looking to collaborate on **Problem Solving skills using Data Structure and Algorithm as well as System Design Pattern using LLD, HLD for better system response.**
 
 - 🤝 I’m looking for help with ** each other for Improvement related problem solving skills.**
 
